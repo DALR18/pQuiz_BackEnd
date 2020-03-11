@@ -7,7 +7,7 @@ using System.Linq;
 namespace Data.Repositorio
 
 {
-    class RespuestaRepository : IRespuestaRepository
+   public class RespuestaRepository : IRespuestaRepository
     {
 
         #region Field

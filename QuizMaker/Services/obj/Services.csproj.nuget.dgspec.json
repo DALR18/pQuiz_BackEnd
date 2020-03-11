@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Services\\Services.csproj": {}
+    "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Services\\Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Data\\Data.csproj": {
+    "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Data\\Data.csproj",
+        "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\ymeza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Data\\obj\\",
+        "outputPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ymeza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Dominio\\Dominio.csproj"
+              "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\ymeza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ymeza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Services\\Services.csproj": {
+    "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\ymeza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Services\\obj\\",
+        "outputPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ymeza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -157,14 +157,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Data\\Data.csproj"
+              "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Data\\Data.csproj"
               },
-              "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Dominio\\Dominio.csproj"
+              "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Utils\\Utils.csproj": {
-                "projectPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Utils\\Utils.csproj"
+              "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj": {
+                "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj"
               }
             }
           }
@@ -202,14 +202,14 @@
         }
       }
     },
-    "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Utils\\Utils.csproj": {
+    "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Utils\\Utils.csproj",
+        "projectUniqueName": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj",
         "projectName": "Utils",
-        "projectPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Utils\\Utils.csproj",
+        "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj",
         "packagesPath": "C:\\Users\\ymeza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Utils\\obj\\",
+        "outputPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ymeza\\AppData\\Roaming\\NuGet\\NuGet.Config",

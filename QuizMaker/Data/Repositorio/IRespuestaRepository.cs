@@ -5,7 +5,7 @@ using Dominio.Business;
 
 namespace Data.Repositorio
 {
-    interface IRespuestaRepository
+   public interface IRespuestaRepository
     {
         public bool Save(Respuesta c);
 

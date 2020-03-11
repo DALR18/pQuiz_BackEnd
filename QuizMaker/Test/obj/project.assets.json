@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\ymeza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Test\\obj\\",
+      "outputPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ymeza\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Utils\\Utils.csproj": {}
+    "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Utils\\Utils.csproj": {
+    "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Utils\\Utils.csproj",
+        "projectUniqueName": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj",
         "projectName": "Utils",
-        "projectPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Utils\\Utils.csproj",
+        "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj",
         "packagesPath": "C:\\Users\\ymeza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Utils\\obj\\",
+        "outputPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ymeza\\AppData\\Roaming\\NuGet\\NuGet.Config",

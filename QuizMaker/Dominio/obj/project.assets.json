@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Dominio\\Dominio.csproj",
+      "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\ymeza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Dominio\\obj\\",
+      "outputPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ymeza\\AppData\\Roaming\\NuGet\\NuGet.Config",

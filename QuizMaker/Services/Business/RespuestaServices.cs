@@ -34,17 +34,17 @@ namespace Services.Business
 
         public Respuesta GetbyId(int id)
         {
-            RespuestaRepository.GetbyId(id)
+            RespuestaRepository.GetbyId(id);
         }
 
         public bool Save(Respuesta c)
         {
-            throw new NotImplementedException();
+            RespuestaRepository.Save(c);
         }
 
         public bool Update(Respuesta c)
         {
-            throw new NotImplementedException();
+            RespuestaRepository.Update(c);
         }
     }
 }

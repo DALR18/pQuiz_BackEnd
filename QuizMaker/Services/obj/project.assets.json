@@ -5287,11 +5287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Services\\Services.csproj",
+      "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\ymeza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Services\\obj\\",
+      "outputPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ymeza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5307,14 +5307,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Data\\Data.csproj"
+            "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Data\\Data.csproj"
             },
-            "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Dominio\\Dominio.csproj"
+            "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj"
             },
-            "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Utils\\Utils.csproj": {
-              "projectPath": "C:\\Users\\ymeza\\source\\repos\\QuizMaker\\Utils\\Utils.csproj"
+            "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj": {
+              "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj"
             }
           }
         }
