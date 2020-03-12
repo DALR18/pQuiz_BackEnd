@@ -29,6 +29,9 @@
             "projectReferences": {
               "C:\\Users\\Yessenia Alberto\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj": {
                 "projectPath": "C:\\Users\\Yessenia Alberto\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj"
+              },
+              "C:\\Users\\Yessenia Alberto\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj": {
+                "projectPath": "C:\\Users\\Yessenia Alberto\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj"
               }
             }
           }
@@ -104,7 +107,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Yessenia Alberto\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj": {
+                "projectPath": "C:\\Users\\Yessenia Alberto\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

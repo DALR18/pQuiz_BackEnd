@@ -3,11 +3,11 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Data.Repositories
+namespace Services.Business
 {
-    public interface IOpcionRepository
+   public interface IOpcionServices
     {
-        public bool save(Opcion o);
+        public bool Save(Opcion o);
 
         public Opcion GetbyId(int id);
 

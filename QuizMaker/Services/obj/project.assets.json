@@ -1381,7 +1381,8 @@
         "dependencies": {
           "Dominio": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.2",
-          "Unity.Microsoft.DependencyInjection": "5.11.5"
+          "Unity.Microsoft.DependencyInjection": "5.11.5",
+          "Utils": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Data.dll": {}
@@ -1393,6 +1394,9 @@
       "Dominio/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Utils": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Dominio.dll": {}
         },
