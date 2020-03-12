@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj": {}
+    "C:\\Users\\Yessenia Alberto\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj": {
+    "C:\\Users\\Yessenia Alberto\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj",
+        "projectUniqueName": "C:\\Users\\Yessenia Alberto\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj",
         "projectName": "Utils",
-        "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj",
-        "packagesPath": "C:\\Users\\ymeza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\obj\\",
+        "projectPath": "C:\\Users\\Yessenia Alberto\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj",
+        "packagesPath": "C:\\Users\\Yessenia Alberto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yessenia Alberto\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ymeza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yessenia Alberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
