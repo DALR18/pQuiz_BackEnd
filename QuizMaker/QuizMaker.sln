@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{784A182C-AF9D-4814-A4B1-E46AC2941315}"
 	ProjectSection(ProjectDependencies) = postProject
 		{B12933C7-EC4D-480A-B9BF-1E87D88C63B4} = {B12933C7-EC4D-480A-B9BF-1E87D88C63B4}
+		{690338E2-D662-4BDD-B9D7-19AC17393504} = {690338E2-D662-4BDD-B9D7-19AC17393504}
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dominio", "Dominio\Dominio.csproj", "{B12933C7-EC4D-480A-B9BF-1E87D88C63B4}"
@@ -21,7 +22,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utils", "Utils\Utils.csproj", "{690338E2-D662-4BDD-B9D7-19AC17393504}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{1269B235-366E-4295-8F75-DDE4C7F3EF8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{1269B235-366E-4295-8F75-DDE4C7F3EF8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
