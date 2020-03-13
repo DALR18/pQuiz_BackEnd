@@ -6,7 +6,7 @@ using Data.DbModels_QuizMaker;
 using System.Linq;
 namespace Data.Repositorio
 {
-    class CuestionarioRepository : ICuestionarioRepository
+   public class CuestionarioRepository : ICuestionarioRepository
 
     {
 

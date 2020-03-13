@@ -17,6 +17,6 @@ namespace Services.Business
 
         public IEnumerable<Respuesta> GetAll();
 
-        public bool Exist(int id);
+        public bool Exist(string valor);
     }
 }

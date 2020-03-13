@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace Dominio.Business
@@ -16,13 +18,13 @@ namespace Dominio.Business
         public DateTime FechaCreacion { get; set; }
         public string Descripcion { get; set; }
 
-        [ForeignKey(nameof(IdUsuarioCrea))]
-        [InverseProperty(nameof(TUsuario.TCuestionario))]
-        public virtual TUsuario IdUsuarioCreaNavigation { get; set; }
-        [InverseProperty("IdCuestionarioNavigation")]
-        public virtual ICollection<TCuestionarioRegistro> TCuestionarioRegistro { get; set; }
-        [InverseProperty("IdCuestionarioNavigation")]
-        public virtual ICollection<TPregunta> TPregunta { get; set; }
+        //[ForeignKey(nameof(IdUsuarioCrea))]
+        //[InverseProperty(nameof(TUsuario.TCuestionario))]
+        //public virtual TUsuario IdUsuarioCreaNavigation { get; set; }
+        //[InverseProperty("IdCuestionarioNavigation")]
+        //public virtual ICollection<TCuestionarioRegistro> TCuestionarioRegistro { get; set; }
+        //[InverseProperty("IdCuestionarioNavigation")]
+        //public virtual ICollection<TPregunta> TPregunta { get; set; }
 
     }
 }

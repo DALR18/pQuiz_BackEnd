@@ -13,7 +13,7 @@ using Unity;
 namespace WebApi.Controllers
 {
     [Route("api/[controller]/ [action]/{id?}")]
-    public class CuestionarioRegistroController : BaseAPIController
+    public class CuestionarioRegistroController : CuestionarioAPIController
     {
         #region Field
         [Dependency]

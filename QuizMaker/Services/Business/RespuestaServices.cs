@@ -19,32 +19,34 @@ namespace Services.Business
 
         public bool Delete(int id)
         {
-            RespuestaRepository.Delete(id);
+            return RespuestaRepository.Delete(id);
         }
 
-        public bool Exist(int id)
+      
+
+        public bool Exist(string valor)
         {
-            RespuestaRepository.Exist(id);
+            return RespuestaRepository.Exist(valor);
         }
 
         public IEnumerable<Respuesta> GetAll()
         {
-            RespuestaRepository.GetAll();
+            return RespuestaRepository.GetAll();
         }
 
         public Respuesta GetbyId(int id)
         {
-            RespuestaRepository.GetbyId(id);
+            return RespuestaRepository.GetbyId(id);
         }
 
         public bool Save(Respuesta c)
         {
-            RespuestaRepository.Save(c);
+            return RespuestaRepository.Save(c);
         }
 
         public bool Update(Respuesta c)
         {
-            RespuestaRepository.Update(c);
+            return RespuestaRepository.Update(c);
         }
     }
 }

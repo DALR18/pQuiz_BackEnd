@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
 
 namespace Dominio.Business
@@ -14,12 +15,12 @@ namespace Dominio.Business
         [Column(TypeName = "decimal(6, 3)")]
         public decimal? Valor { get; set; }
 
-        [ForeignKey(nameof(IdCuestionarioRegistro))]
-        [InverseProperty(nameof(TCuestionarioRegistro.TRespuesta))]
-        public virtual TCuestionarioRegistro IdCuestionarioRegistroNavigation { get; set; }
-        [ForeignKey(nameof(IdPregunta))]
-        [InverseProperty(nameof(TPregunta.TRespuesta))]
-        public virtual TPregunta IdPreguntaNavigation { get; set; }
+       // [ForeignKey(nameof(IdCuestionarioRegistro))]
+       // [InverseProperty(nameof(TCuestionarioRegistro.TRespuesta))]
+        //public virtual TCuestionarioRegistro IdCuestionarioRegistroNavigation { get; set; }
+        //[ForeignKey(nameof(IdPregunta))]
+        //[InverseProperty(nameof(TPregunta.TRespuesta))]
+        //public virtual TPregunta IdPreguntaNavigation { get; set; }
 
     }
 }
