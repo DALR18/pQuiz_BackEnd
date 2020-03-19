@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ymeza\\.nuget\\packages\\": {}
+    "C:\\Users\\Daniel Lara\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj",
-      "packagesPath": "C:\\Users\\ymeza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\obj\\",
+      "projectPath": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj",
+      "packagesPath": "C:\\Users\\Daniel Lara\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ymeza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Daniel Lara\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

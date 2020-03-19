@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Services\\Services.csproj": {}
+    "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Services\\Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Data\\Data.csproj": {
+    "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Data\\Data.csproj",
-        "packagesPath": "C:\\Users\\ymeza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Data\\obj\\",
+        "projectPath": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\Daniel Lara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ymeza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel Lara\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj"
+              "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj": {
-                "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj"
+              "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj": {
+                "projectPath": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj"
               }
             }
           }
@@ -85,17 +85,17 @@
         }
       }
     },
-    "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\ymeza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\obj\\",
+        "projectPath": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\Daniel Lara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ymeza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel Lara\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -137,17 +137,17 @@
         }
       }
     },
-    "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Services\\Services.csproj": {
+    "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\ymeza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Services\\obj\\",
+        "projectPath": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\Daniel Lara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ymeza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel Lara\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -160,14 +160,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Data\\Data.csproj"
+              "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Data\\Data.csproj"
               },
-              "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj"
+              "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj": {
-                "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj"
+              "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj": {
+                "projectPath": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj"
               }
             }
           }
@@ -205,17 +205,17 @@
         }
       }
     },
-    "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj": {
+    "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj",
         "projectName": "Utils",
-        "projectPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj",
-        "packagesPath": "C:\\Users\\ymeza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ymeza\\Documents\\pQuiz_BackEnd\\QuizMaker\\Utils\\obj\\",
+        "projectPath": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Utils\\Utils.csproj",
+        "packagesPath": "C:\\Users\\Daniel Lara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel Lara\\Documents\\GitHub\\pQuiz_BackEnd\\QuizMaker\\Utils\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ymeza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel Lara\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
